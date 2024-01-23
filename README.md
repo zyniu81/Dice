@@ -1,10 +1,10 @@
 # Dice
 
 Simulate dice rolling based on user input in the format xDy+z.
-x - how many dice (optional)
-D - required
-y - type of dice (required)
-+/- z - how many add or subtract to result roll dice (optional)
+- x - how many dice (optional)
+- D - required
+- y - type of dice (required)
+- +/- z - how many add or subtract to result roll dice (optional)
 
 ## Requirements
 
